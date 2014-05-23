@@ -2,7 +2,7 @@
 elasticsearch:
   url: 'http://download.elasticsearch.org/elasticsearch/elasticsearch'
   deb:
-    package: 'elasticsearch-1.0.1.deb'
+    package: 'elasticsearch-1.1.1.deb'
     service: 'elasticsearch'
   plugin: '/usr/share/elasticsearch/bin/plugin'
   config: '/etc/elasticsearch/elasticsearch.yml'
